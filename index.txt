@@ -11,3 +11,5 @@ git commit -m "Any message"
 git restore --staged "" (file name)
 file that are added to the area are removed
 
+git log 
+username and the change were displayed with time
