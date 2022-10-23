@@ -11,6 +11,7 @@ git reset (hash numbers) --> for undoing the commit
 
 git status--> to see the status of the files
 
+git log --> to see the operation done by who and at what time.
 git and github
 git remote add origin (https://github.com/GURUNMG/tutorial_git.git) adding to github
 
