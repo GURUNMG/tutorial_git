@@ -17,4 +17,14 @@ git remote add origin (https://github.com/GURUNMG/tutorial_git.git) adding to gi
 
 git push origin master(master is branch)
 
-hi this is simple... 
+git branch -a --> to see the available branches
+
+git checkout -b (branch-name need to create)
+
+git checkout () (fixing the header.. for the new branch that we have created)
+
+git switch - (this commands makes us to move to the previous branch)
+
+git switch (name of the branch) -->(this commands makes us to move to the named branch)
+
+git branch --D (name of the branch) --> (this command makes us to delete the named branch)
