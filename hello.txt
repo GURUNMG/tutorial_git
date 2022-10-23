@@ -16,3 +16,5 @@ git and github
 git remote add origin (https://github.com/GURUNMG/tutorial_git.git) adding to github
 
 git push origin master(master is branch)
+
+hi this is simle... 
