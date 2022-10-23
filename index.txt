@@ -1,4 +1,13 @@
-hi 
-Gurubharan N M
-git 
-github
+git init
+
+git status
+file or folder that are changed 
+
+git add . (all the files in the folders were added to the area)
+git add (file name with extension)
+
+git commit -m "Any message"
+
+git restore --staged "" (file name)
+file that are added to the area are removed
+
