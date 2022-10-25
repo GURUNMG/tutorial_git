@@ -1,8 +1,0 @@
-hi 
-hello
-<<<<<<< HEAD
-
-i am gurubharan 
-cse department
-=======
->>>>>>> df4127da0c72cbc5104f09c983053b00de4d18a8
