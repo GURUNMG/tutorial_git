@@ -15,6 +15,14 @@ git log --> to see the operation done by who and at what time.
 git and github
 git remote add origin (https://github.com/GURUNMG/tutorial_git.git) adding to github
 
+if we are trying something new like testing the project, but we did not want the changes to be commited... 
+we use stash
+
+for performing stash
+1. After the changes you made the move it to staged area... git add
+2. then use --> git stash
+your changes will be stored seperately in a location
+changes can be called using --> git stash pop ... then you can commit the stash file or updated changes
 git push origin master(master is branch)
 
 git branch -a --> to see the available branches
