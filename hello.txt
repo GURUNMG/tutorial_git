@@ -26,10 +26,11 @@ changes can be called using --> git stash pop ... then you can commit the stash 
 
 git push origin master(master is branch)
 git push --force origin master (to get rid of all the errors while pushing ... it forces to push the files.)
+
 git branch -a --> to see the available branches
 
 git checkout -b (branch-name need to create)
-
+git branch -d (branch name) --> to delete the created branch
 git checkout () (fixing the header.. for the new branch that we have created)
 
 git switch - (this commands makes us to move to the previous branch)
